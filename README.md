@@ -4,6 +4,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `yarn server`
+
+Runs the customerjson-server.<br />
+Open [http://localhost:5000](http://localhost:5000) to view the data in the browser.
+
+This acts as our back end.<br />
+
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />
